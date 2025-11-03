@@ -150,7 +150,6 @@ If you want to run all three parts under a single Tomcat instance:
 ## 👨‍💻 Author
 
 Nimbus Submission by
-Pankaj Kumar
-23BCS12433
-3rd Year CSE Student Master at codeforces and 5 star at codechef and 5 star at gfg 
-Submitted for: *Web Application Development using Servlets & JSP*
+Monika Singh   
+23BCS13845
+3rd Year CSE Student
